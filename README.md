@@ -23,10 +23,6 @@
 #### Power BI
 - 🚀 [Transactions Report](https://github.com/Subashini03/Transactions-Power-BI-Report): Data Visualization, DAX, UI.
 
-### Connect with Me
-
-- 📫 Let's connect! [LinkedIn](www.linkedin.com/in/subashini-s3)
-
 ### Let's Collaborate!
 
 - 💬 Open to collaboration and discussions on anything tech-related.
