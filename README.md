@@ -8,16 +8,20 @@
 
 ### Projects
 
-#### Machine Learning Model
-- 🧠 [Covid-19 X-ray Classification](link-to-repository)
-
-#### JavaServer Pages (JSP)
-- 🌐 [Project Name 3](link-to-repository): Web development project using JSP.
-- 🚀 [Project Name 4](link-to-repository): Another JSP project highlighting your web development skills.
-
 #### Cybersecurity
-- 🔐 [Project Name 5](link-to-repository): A cybersecurity project demonstrating your expertise.
-- 🛡️ [Project Name 6](link-to-repository): Another cybersecurity project focused on [specific aspect].
+- 🔐 [Update File Using Python](https://github.com/Subashini03/Automate-IP-Address-File-Update): Automates the task of updating the file with allowed IP addresses using python.
+- 🛡️ [File Permissions with Linux](https://github.com/Subashini03/Linux-File-Permissions): Examine and determine user file permissions with Linux.
+- 🛡️ [Text Encrytion](https://github.com/Subashini03/Caeser-Cipher-Algorithm): Encrypt plain text using Caesar Cipher algorithm.
+
+#### Machine Learning Models
+- 🧠 [Covid-19 X-ray Classification](https://github.com/Subashini03/X-ray-Classification): Predicts positive Covid-19 cases using CNN.
+- 🧠 [Health Care Chatbot](https://github.com/Subashini03/HealthCare-Chatbot): Health Diagnosis Chatbot.
+
+#### Java Servlet
+- 🌐 [Movie Ticket Booking](https://github.com/Subashini03/Web-Page-Using-Servlets): Frontend Web development project using Java.
+
+#### Power BI
+- 🚀 [Transactions Report](https://github.com/Subashini03/Transactions-Power-BI-Report): Data Visualization, DAX, UI.
 
 ### Connect with Me
 
