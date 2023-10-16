@@ -25,7 +25,7 @@
 
 ### Connect with Me
 
-- 📫 Let's connect! [LinkedIn](www.linkedin.com/subashini-s3)
+- 📫 Let's connect! [LinkedIn](www.linkedin.com/in/subashini-s3)
 
 ### Let's Collaborate!
 
